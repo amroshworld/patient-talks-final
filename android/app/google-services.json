@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "282587055988",
+    "firebase_url": "https://patient-talks-81983.firebaseio.com",
+    "project_id": "patient-talks-81983",
+    "storage_bucket": "patient-talks-81983.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282587055988:android:1edbfebb87cad701f78e21",
+        "android_client_info": {
+          "package_name": "com.amrosh.patienttalks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282587055988-g12121cun3bllitb0el6gopubp9q9k12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIgR9GC72I7h4nUlUQrpIxcmZXd3N8JXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282587055988-g12121cun3bllitb0el6gopubp9q9k12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
